@@ -22,8 +22,3 @@ Balding because of coding 🧠💥
 - 📦 [More Repos Below 👇](#)
 
 ---
-
-### 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanGxG&show_icons=true&theme=tokyonight)
-
----
