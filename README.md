@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel
 
-<!--
-**DanGxG/DanGxG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer • Node.js • Python • PHP  
+Dreaming in code 💭 • Automation geek 🤖  
+Balding because of coding 🧠💥
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌐 Projects & Links
+
+- 🔗 [Entregas UDL](https://entregasudl.live)
+- 💼 [My Portfolio](https://your-portfolio-link.com)
+- 📦 [More Repos Below 👇](#)
+
+---
+
+### 📈 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanGxG&show_icons=true&theme=tokyonight)
+
+---
