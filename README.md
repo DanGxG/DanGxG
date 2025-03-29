@@ -18,7 +18,7 @@ Balding because of coding 🧠💥
 ### 🌐 Projects & Links
 
 - 🔗 [Entregas UDL](https://entregasudl.live)
-- 💼 [My Portfolio](https://your-portfolio-link.com)
+- 💼 [My Portfolio](#)
 - 📦 [More Repos Below 👇](#)
 
 ---
