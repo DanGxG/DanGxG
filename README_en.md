@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel (DanGxG)
+# 👋 Hi, I'm Daniel
 
 I am a young and enthusiastic Full Stack Developer with a deep passion for computer science and a constant ambition to learn and achieve new goals. I consider myself a proactive and responsible person, I enjoy working in a team, and I adapt easily to various work environments, always seeking new challenges. Dreaming in code 💭 • Automation geek 🤖 • Balding because of coding 🧠💥
 
