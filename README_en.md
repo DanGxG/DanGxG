@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel
 
-I am a young and enthusiastic Full Stack Developer with a deep passion for computer science and a constant ambition to learn and achieve new goals. I consider myself a proactive and responsible person, I enjoy working in a team, and I adapt easily to various work environments, always seeking new challenges. Dreaming in code 💭 • Automation geek 🤖 • Balding because of coding 🧠💥
+I am a young and enthusiastic Full Stack Developer with a deep passion for computer science and a constant ambition to learn and achieve new goals. I consider myself a proactive and responsible person, I enjoy working in a team, and I adapt easily to various work environments, always seeking new challenges.
 
 <!-- Link to Spanish Version -->
 **[Versión en Español](README.md)**
@@ -17,6 +17,7 @@ I am a young and enthusiastic Full Stack Developer with a deep passion for compu
 
 ### 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
