@@ -1,6 +1,7 @@
 # 👋 Hola, soy Daniel
 
-Soy un joven desarrollador Full Stack entusiasta, con una profunda pasión por la informática y una ambición constante por aprender y alcanzar nuevas metas. Me considero una persona proactiva y responsable, me gusta trabajar en equipo y me adapto con facilidad a diversos entornos laborales, siempre buscando nuevos desafíos. Dreaming in code 💭 • Automation geek 🤖 • Balding because of coding 🧠💥
+Soy un joven desarrollador Full Stack entusiasta, con una profunda pasión por la informática y una ambición constante por aprender y alcanzar nuevas metas. Me considero una persona proactiva y responsable, me gusta trabajar en equipo y me adapto con facilidad a diversos entornos laborales, siempre buscando nuevos desafíos. 
+Dreaming in code 💭 • Automation geek 🤖 • Balding because of coding 🧠💥
 
 <!-- Enlace a la versión en Inglés -->
 **[English Version](README_en.md)**
