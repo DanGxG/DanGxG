@@ -54,7 +54,7 @@ Aquí una selección de proyectos en los que he trabajado, demostrando una varie
 -   **[Bots de Videojuegos (ej. wowBuyingBot)](https://github.com/DanGxG/wowBuyingBot)**: Desarrollo de bots sofisticados para videojuegos, utilizando principalmente `Python`. Estos bots implementan técnicas de `Computer Vision` para el análisis de pantalla y la automatización de interacciones, permitiendo realizar tareas como compras automatizadas u otras acciones dentro del juego (por ejemplo, en World of Warcraft).
     *   **Tecnologías Clave:** `Python`, `Computer Vision`.
 
--   **[GoPlanifi](https://github.com/GoPlanifiTeam/GoPlanifi)**: Un proyecto colaborativo desarrollado usando `Kotlin` para un robusto desarrollo de backend o aplicaciones Android, complementado con `HTML` para el frontend. Sugiere una herramienta de planificación o gestión.
+-   **[GoPlanifi](https://github.com/GoPlanifiTeam/GoPlanifi)**: Un proyecto colaborativo desarrollado usando `Kotlin`.
 
 -   **[tiktokScraper](https://github.com/DanGxG/tiktokScraper)**: Una herramienta especializada creada principalmente en `JavaScript` con scripting de `Shell`, diseñada para extraer datos de TikTok.
 
