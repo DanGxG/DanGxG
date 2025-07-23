@@ -29,7 +29,7 @@ Soy un joven desarrollador Full Stack entusiasta, con una profunda pasión por l
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DanGxG&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanGxG&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 <!-- Si quieres añadir las otras estadísticas (generales y de lenguajes), házmelo saber -->
 
 ---
